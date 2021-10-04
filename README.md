@@ -36,8 +36,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-# 各种主页
+
+## About Me
+
+### My Homepage on Other Stage
  
 [CSDN](https://blog.csdn.net/Rae_chim?spm=1000.2115.3001.5343)
 
-[曲线曲面笔记本](http://raechim.xyz/notebook/part1/)
+### My Notebook
+
+[Computer Graphics(Curve and Surface)](http://raechim.xyz/notebook/part1/)
+
