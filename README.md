@@ -47,5 +47,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### My Notebook
 
-[Computer Graphics(Curve and Surface)](http://raechim.xyz/notebook/part1/)
+[Computer Graphics (Curve and Surface)](http://raechim.xyz/notebook/part1/)
 
