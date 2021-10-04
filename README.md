@@ -39,3 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # 各种主页
  
 [CSDN](https://blog.csdn.net/Rae_chim?spm=1000.2115.3001.5343)
+
+[曲线曲面笔记本](http://raechim.xyz/notebook/part1/)
