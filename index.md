@@ -13,7 +13,7 @@ layout: home
 [Computer Graphics (Curve and Surface)](http://raechim.xyz/notebook/part1/)
 
 
-
+---
 
 
 
