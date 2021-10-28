@@ -4,7 +4,7 @@ layout: home
 
 # hello.
 
-<img src="./assets/wechat.png" width=120px align="right">
+<img src="./assets/wechat.png" width=100px align="right">
 
 **My Homepage on Other Stage**
  
