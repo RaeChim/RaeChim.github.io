@@ -4,6 +4,8 @@ layout: home
 
 # hello.
 
+<img src="./assets/wechat.png" width=120px align="right">
+
 **My Homepage on Other Stage**
  
 [CSDN](https://blog.csdn.net/Rae_chim){:target="_blank"}
