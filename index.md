@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# hello.
+# Hello.
 
 <img src="./assets/wechat.png" width=100px align="right">
 
@@ -14,7 +14,11 @@ layout: home
 
 **My Notebook**
 
-[Computer Graphics (Curve and Surface)](http://raechim.xyz/notebook){:target="_blank"}
+[Computer Graphics (Curve and Surface)](https://raechim.xyz/notebook/part1/){:target="_blank"}
+
+[Optimization & Optimal Control](https://raechim.xyz/notebook/part3/){:target="_blank"}
+
+[Path Planning](https://raechim.xyz/notebook/part2/){:target="_blank"}
 
 
 <br>
