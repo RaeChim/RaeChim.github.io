@@ -2,7 +2,7 @@
 layout: post
 title:  "Resources"
 description: Note of some learning resources.
-date:   2019-05-23 21:03:36 +0530
+date:   2021-11-03 12:20:00 +0530
 # categories: Javascript NodeJS
 ---
 ## 书籍
