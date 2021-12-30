@@ -20,6 +20,8 @@ layout: home
 
 [Path Planning](https://raechim.xyz/notebook/part2/){:target="_blank"}
 
+[Operations Research](https://raechim.xyz/notebook/part6/){:target="_blank"}
+
 [Linear Programming](https://raechim.xyz/notebook/part5/){:target="_blank"}
 
 <br>
