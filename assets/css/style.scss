@@ -54,6 +54,7 @@
 // Textures
 .texture-black {
     background-image: url('{{ site.baseurl }}/assets/textures/black.jpg');
+    background-size: cover;
 
     h2 {
         color: #999;
