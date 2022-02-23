@@ -24,6 +24,8 @@ layout: home
 
 [Linear Programming](https://raechim.xyz/notebook/part5/){:target="_blank"}
 
+[Machine Learning](https://raechim.xyz/notebook/part7/){:target="_blank"}
+
 <br>
 
 ---
