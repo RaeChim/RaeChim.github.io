@@ -13,7 +13,7 @@ baseurl:
 sass:
   sass_dir: _sass
 
-permalink: /posts/:title/
+permalink: /essay/:title
 
 texture:
   title: Rae Chim
