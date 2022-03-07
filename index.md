@@ -14,17 +14,13 @@ layout: home
 
 **My Notebook**
 
-[Computer Graphics (Curve and Surface)](https://raechim.xyz/notebook/part1/){:target="_blank"}
+[Principles of Robot Motion](https://raechim.xyz/notebook/part2/){:target="_blank"}
 
-[Optimization & Optimal Control](https://raechim.xyz/notebook/part3/){:target="_blank"}
+[Optimal Control Systems](https://raechim.xyz/notebook/part3/){:target="_blank"}
 
-[Path Planning](https://raechim.xyz/notebook/part2/){:target="_blank"}
+[Operations Research](https://raechim.xyz/notebook/part4/){:target="_blank"}
 
-[Operations Research](https://raechim.xyz/notebook/part6/){:target="_blank"}
-
-[Linear Programming](https://raechim.xyz/notebook/part5/){:target="_blank"}
-
-[Machine Learning](https://raechim.xyz/notebook/part7/){:target="_blank"}
+[Machine Learning](https://raechim.xyz/notebook/part5/){:target="_blank"}
 
 <br>
 
