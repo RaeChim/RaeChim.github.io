@@ -751,7 +751,7 @@ img {
 }
 
 a {
-  color: #15F3A8;
+  color: #22863a;
   text-decoration: none;
 }
 a:hover {
@@ -846,8 +846,8 @@ pre code {
 }
 
 .sidebar-logo .logo {
-  font-family: 'Finger Paint', cursive;
-  color: #15F3A8;
+  font-family: revert;
+  color: #00B050;
   text-transform: uppercase;
   text-decoration: none;
   font-size: 3rem;
@@ -897,27 +897,27 @@ pre code {
   padding: 1rem;
 }
 .main-article .title-article, .main-article .page-title, .main-article .post-title, .page-article .title-article, .page-article .page-title, .page-article .post-title, .post .title-article, .post .page-title, .post .post-title {
-  font-family: 'Finger Paint', cursive;
+  font-family: revert;
   margin-bottom: 0;
   -webkit-transition: all .3s;
   transition: all .3s;
-  color: #15F3A8;
+  color: #00B050;
   font-size: 2.5rem;
   margin-top: 0.67rem;
 }
 .main-article .title-article a, .main-article .page-title a, .main-article .post-title a, .page-article .title-article a, .page-article .page-title a, .page-article .post-title a, .post .title-article a, .post .page-title a, .post .post-title a {
-  color: #15F3A8;
+  color: #00B050;
   text-decoration: none;
 }
 .main-article .post-date span, .main-article .page-date span, .page-article .post-date span, .page-article .page-date span, .post .post-date span, .post .page-date span {
   font-size: 0.8rem;
   text-transform: uppercase;
   font-family: monospace;
-  color: lightgreen;
+  color: #00B050;
 }
 .main-article .more, .page-article .more, .post .more {
   text-decoration: none;
-  color: lightgreen;
+  color: #22863a;
 }
 
 img.post-image, img.page-img {
